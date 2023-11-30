@@ -1,0 +1,6 @@
+baseURL = 'https://geekbeer.se'
+languageCode = 'sv-SE'
+title = 'Geek Beer - Ett tech meetup'
+description = 'Geek Beer är ett tech meetup i södra Sverige för utvecklare och designers'
+
+theme = 'geekbeer'
