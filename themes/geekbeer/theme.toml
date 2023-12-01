@@ -1,17 +1,17 @@
-name = 'Theme name'
+name = 'Geek Beer'
 license = 'MIT'
-licenselink = 'https://github.com/owner/repo/LICENSE'
+licenselink = 'https://github.com/geekbeer/geek-beer-website/LICENSE'
 description = 'Theme description'
 
 # The home page of the theme, where the source can be found
-homepage = 'https://github.com/owner/repo'
+homepage = 'https://github.com/geekbeer/geek-beer-website'
 
 # If you have a running demo of the theme
-demosite = 'https://owner.github.io/repo'
+# demosite = 'https://owner.github.io/repo'
 
 # Taxonomy terms
-tags = ['blog', 'company']
-features = ['some', 'awesome', 'features']
+tags = ['events', 'company']
+# features = ['some', 'awesome', 'features']
 
 # If the theme has multiple authors
 authors = [
@@ -21,11 +21,5 @@ authors = [
 
 # If the theme has a single author
 [author]
-  name = 'Your name'
-  homepage = 'Your website'
-
-# If porting an existing theme
-[original]
-  author = 'Name of original author'
-  homepage = 'Website of original author'
-  repo = 'https://github.com/owner/repo'
+  name = 'Jörgen Nilsson'
+  homepage = 'https://jorgennilsson.com'
