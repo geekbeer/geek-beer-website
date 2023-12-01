@@ -3,24 +3,14 @@ languageCode = 'sv-se'
 title = 'Geek Beer - Ett Tech Meetup'
 
 [[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
-name = 'Events'
-pageRef = '/events'
+name = 'Meetups'
+pageRef = '/meetups'
 weight = 20
 
 [[menus.main]]
-name = 'About'
+name = 'Vad är Geek Beer?'
 pageRef = '/about'
 weight = 30
-
-[[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
-weight = 40
 
 [module]
   [module.hugoVersion]
