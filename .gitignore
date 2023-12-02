@@ -22,3 +22,4 @@ go.work
 /.idea
 /.hugo_build.lock
 /public
+/resources/_gen/
